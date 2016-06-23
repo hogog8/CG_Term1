@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Unity Project 1.CSharp.Plugins", "New Unity Project 1.CSharp.Plugins.csproj", "{AE572F5D-D5E9-D0AF-C072-D4C9FE5B5552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE572F5D-D5E9-D0AF-C072-D4C9FE5B5552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE572F5D-D5E9-D0AF-C072-D4C9FE5B5552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE572F5D-D5E9-D0AF-C072-D4C9FE5B5552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE572F5D-D5E9-D0AF-C072-D4C9FE5B5552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
